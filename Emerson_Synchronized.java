@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 /*
-* @Author: Emerson
+* @Author: Emerson de Lemmus
 * A Multithreaded program demonstrating synchronization	
 */
 
